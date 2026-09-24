@@ -1,0 +1,8 @@
+{
+  "name": "Markov Lab: Cadenas de Markov en Tiempo Discreto",
+  "description": "Plataforma docente interactiva para la exploración y simulación estocástica de cadenas de Markov en tiempo discreto, matrices de transición, convergencia estacionaria y simulaciones en Python.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
